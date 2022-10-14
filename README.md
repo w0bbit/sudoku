@@ -1,2 +1,2 @@
 # sudoku
-first draaft
+First draft. Solves puzzles not requiring guesswork.
